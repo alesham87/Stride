@@ -230,4 +230,4 @@ journalctl -u relayerd -f -o cat
 
 Check your wallet transaction in explorer to find the GO v2 Relayer Update Client(IBC) message:
 
-![image](https://github.com/susan1960/Stride/blob/main/images/2.png)
+![image](https://github.com/alesham87/Stride/blob/main/images/relayer2.png)
